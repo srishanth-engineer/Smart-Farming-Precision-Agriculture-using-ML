@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS pesticides (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    pest_name VARCHAR(255) NOT NULL,
+    pesticide_name VARCHAR(500) NOT NULL
+);

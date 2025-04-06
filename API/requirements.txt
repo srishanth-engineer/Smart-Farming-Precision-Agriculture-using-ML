@@ -1,0 +1,10 @@
+fastapi
+pydantic
+numpy
+tensorflow
+torch
+torchvision
+scikit-learn
+joblib
+pillow
+uvicorn
